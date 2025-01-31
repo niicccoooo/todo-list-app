@@ -2,7 +2,7 @@
 
 Aplicacion full-stack para gestion de tareas con backend en Node.js (Express) y frontend en React.
 
-![Demo](https://imgur.com/a/X1lcPVl) 
+![Demo](https://i.imgur.com/S2NLZXW.png) 
 
 ## Características
 
@@ -11,7 +11,7 @@ Aplicacion full-stack para gestion de tareas con backend en Node.js (Express) y 
 ✅ Eliminar tareas  
 ✅ Persistencia en memoria (backend)  
 ✅ Interfaz responsive  
-✅ Manejo de errores
+✅ Manejo de errores\
 ✅ Tests para asegurar funcionamiento
 
 ## Tecnologías
@@ -35,31 +35,31 @@ cd todo-list-app
 
 2. **Configurar backend**
 
-cd backend
+cd backend\
 npm install
 
 3. **Configurar frontend**
 
-cd ../frontend
+cd ../frontend\
 npm install
 
 ## Ejecucion
 
 1. **Iniciar backend (puerto 5000)**
 
-cd backend
+cd backend\
 npm start
 
 2. **Iniciar frontend (puerto 3000)**
 
-cd ../frontend
+cd ../frontend\
 npm start
 
 La aplicacion se abrirá automaticamente en http://localhost:3000.
 
 3. **Tests**
 
-cd frontend
+cd frontend\
 npm test
 
 (Esto ejecuta los tests definidos en src/App.test.js y muestra los resultados en la terminal.)
