@@ -30,7 +30,7 @@ Aplicacion full-stack para gestion de tareas con backend en Node.js (Express) y 
 
 1. **Clonar repositorio**
 
-git clone https://github.com/niicccoooo/todo-list-app.git\
+git clone https://github.com/niicccoooo/todo-list-app.git \  
 cd todo-list-app
 
 2. **Configurar backend**
